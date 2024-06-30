@@ -102,9 +102,9 @@ Hình 2. 9 Cơ sở dữ liệu sau khi thanh toán thành công
 
 
 	Ngoài ra khi nhấn vào biểu tượng tin nhắn thì sẽ hiển thị bảng đóng góp ý kiến để khách hàng có thể gửi lời ý kiến hoặc đóng góp cải thiện cho phía nhà hàng. Cũng tương tự thanh toán, nếu khách hàng chưa nhập nhì mà nhấn gửi thì sẽ báo lỗi yêu cầu khách hàng nhập vào gì đó trước khi gửi.
-     ![image](https://github.com/hien20/vh/assets/85773590/7c9a16ee-00fb-41a9-ba07-9e1d12fc43f6)
+    
 
-
+ ![image](https://github.com/hien20/vh/assets/85773590/7c9a16ee-00fb-41a9-ba07-9e1d12fc43f6)
                               Hình 2.12 Mành hình liên hệ (Lời nhắn gửi)
 
 
