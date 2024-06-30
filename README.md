@@ -9,7 +9,8 @@
 •	Cơ sở dữ liệu MySQL
 
 2.1 Màn hình chủ
-    
+    ![image](https://github.com/hien20/vh/assets/85773590/2b9e4c73-1948-4c55-9670-2b977dc63a3d)
+
 
                                      Hình 2.1 Giao diện màn hình chủ
 	Ở đầu màn hình chủ ứng dụng là slider hiển thị thông tin các ưu đãi mà ứng dụng đang có, ở kế bên dưới là danh sách “Món ngon mỗi ngày” hiển thị 10 món ăn ngẫu nhiên, mỗi lần mở lại màn hình chủ sẽ load lên ngẫu nhiên 10 món khác nhau khác. Khách hàng có thể ấn vào một món bất kỳ ở màn hình chủ để vào thẳng màn hình chi tiết của món đó.
