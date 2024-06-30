@@ -1,12 +1,12 @@
 1.	Môi trường cài đặt
-•	Hệ điều hành Android 6.0
-•	Min sdk 23
-•	Android studio
-•	XAMPP
-2. Công nghệ sử dụng
-•	Ngôn ngữ Java
-•	PHP kết nối server
-•	Cơ sở dữ liệu MySQL
+	- Hệ điều hành Android 6.0
+	- Min sdk 23
+	- Android studio
+	- XAMPP
+3. Công nghệ sử dụng
+	- Ngôn ngữ Java
+	- PHP kết nối server
+	- Cơ sở dữ liệu MySQL
 
 2.1 Màn hình chủ
     ![image](https://github.com/hien20/vh/assets/85773590/2b9e4c73-1948-4c55-9670-2b977dc63a3d)
