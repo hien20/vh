@@ -25,10 +25,10 @@
 2.2 Màn hình danh mục và màn hình sản phẩm
 	Khi chọn phần danh mục thì ứng dụng sẽ hiển thị ra cho khách hàng danh sách cách danh mục hiện có của cửa hàng. Khi chọn vào một danh mục cụ thể thị sẽ hiển thị ra danh sách các món ăn thuộc danh mục đó.
 
-           ![image](https://github.com/hien20/vh/assets/85773590/f3020bd7-687a-460a-a930-7dced351e36e)
+          
+
+ ![image](https://github.com/hien20/vh/assets/85773590/f3020bd7-687a-460a-a930-7dced351e36e)
 	   ![image](https://github.com/hien20/vh/assets/85773590/bb7bc0bb-1516-4919-bacc-a167578048c7)
-
-
                 Hình 2.2 Giao diện màn hình danh mục và màn hình sản phẩm
 
 2.3 Màn hình chi tiết sản phẩm	
